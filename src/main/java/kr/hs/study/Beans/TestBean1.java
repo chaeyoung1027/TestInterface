@@ -1,2 +1,4 @@
-package kr.hs.study.Beans;public class TestBean1 {
+package kr.hs.study.Beans;
+
+public class TestBean1 implements TestBean{
 }
